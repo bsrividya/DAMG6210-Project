@@ -1,0 +1,35 @@
+drop table appointment;
+drop table bill;
+drop table employee;
+drop table insurance;
+drop table patientdetails;
+drop table insurancemaster;
+drop table lab;
+drop table labmaster;
+drop table payroll;
+drop table pharmacymaster;
+drop table prescription;
+drop table prescriptionmaster;
+drop table report;
+drop table rolemaster;
+drop table room;
+drop table suppliermaster;
+
+
+-- drop sequences
+drop SEQUENCE appointmentSequence;
+drop SEQUENCE billSequence;
+drop SEQUENCE employeeSequence;
+drop SEQUENCE insurancemasterSequence;
+drop SEQUENCE labSequence;
+drop SEQUENCE labMasterSequence;
+drop SEQUENCE patientSequence;
+drop SEQUENCE payrollSequence;
+drop SEQUENCE pharmacyMasterSequence;
+drop SEQUENCE prescriptionSequence;
+drop SEQUENCE prescriptionMasterSequence;
+drop SEQUENCE reportSequence;
+drop SEQUENCE roleMasterSequence;
+drop SEQUENCE roomSequence;
+drop SEQUENCE supplierSequence;
+drop SEQUENCE insuranceSequence;
