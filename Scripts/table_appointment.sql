@@ -1,0 +1,26 @@
+SELECT * FROM APPOINTMENT;
+
+insert into APPOINTMENT values ('11242','61748','S63215D','Follow Up','12-Jan-2022','12-Jan-2022','45','Subluxation of MCP joint of left ring finger, subs');
+insert into APPOINTMENT values ('90586','3788','S72366Q','Follow Up','12-Jan-2022','12-Jan-2022','74','Nondisp seg fx shaft of unsp femr, 7thQ');
+insert into APPOINTMENT values ('94600','8675','S15199S','Administrative Physicals','12-Jan-2022','12-Jan-2022','87','Oth injury of unspecified vertebral artery, sequela');
+insert into APPOINTMENT values ('73774','42957','M94239','Follow Up','15-Jan-2022','15-Jan-2022','51','Chondromalacia, unspecified wrist');
+insert into APPOINTMENT values ('87402','68382','H16043','Physical/Check Up','16-Jan-2022','16-Jan-2022','1','Marginal corneal ulcer, bilateral');
+insert into APPOINTMENT values ('89987','49967','S83221S','Urgent/New Symptom Visit','24-Jan-2022','24-Jan-2022','29','Prph tear of medial mensc, current injury, r knee, sequela');
+insert into APPOINTMENT values ('37003','13668','S66521S','Follow Up','16-Jan-2022','16-Jan-2022','66','Lacerat intrns musc/fasc/tend l idx fngr at wrs/hnd lv, sqla');
+insert into APPOINTMENT values ('24061','13733','T523X2S','Administrative Physicals','16-Jan-2022','16-Jan-2022','37','Toxic effect of glycols, intentional self-harm, sequela');
+insert into APPOINTMENT values ('96322','43269','S73111','Physical/Check Up','16-Jan-2022','16-Jan-2022','51','Iliofemoral ligament sprain of right hip');
+insert into APPOINTMENT values ('59057','41163','S72365S','Physical/Check Up','21-Jan-2022','21-Jan-2022','55','Nondisp segmental fracture of shaft of left femur, sequela');
+insert into APPOINTMENT values ('25711','54973','R871','Urgent/New Symptom Visit','21-Jan-2022','21-Jan-2022','27','Abn lev hormones in specimens from female genital organs');
+insert into APPOINTMENT values ('78615','6956','W298XXA','Physical/Check Up','24-Jan-2022','24-Jan-2022','31','Cntct w oth power power hand tools and household mach, init');
+insert into APPOINTMENT values ('23129','76074','M1A2391','Follow Up','25-Jan-2022','25-Jan-2022','76','Drug-induced chronic gout, unspecified wrist, with tophus');
+insert into APPOINTMENT values ('62384','41163','S63217A','Administrative Physicals','28-Jan-2022','28-Jan-2022','60','Subluxation of MCP joint of left little finger, init');
+insert into APPOINTMENT values ('29035','13537','V8693','Physical/Check Up','25-Jan-2022','25-Jan-2022','88','Unsp occupant of dune buggy injured in nontraffic accident');
+insert into APPOINTMENT values ('84375','17856','S32309K','Physical/Check Up','24-Jan-2022','24-Jan-2022','63','Unsp fracture of unsp ilium, subs for fx w nonunion');
+insert into APPOINTMENT values ('62607','55910','S24134D','Urgent/New Symptom Visit','28-Jan-2022','28-Jan-2022','62','Anterior cord syndrome at T11-T12, subs');
+insert into APPOINTMENT values ('99845','7889','S99009B','Follow Up','26-Jan-2022','26-Jan-2022','13','Unspecified physeal fracture of unspecified calcaneus, 7thB');
+insert into APPOINTMENT values ('14579','16714','T7803XS','Follow Up','24-Jan-2022','24-Jan-2022','65','Anaphylactic reaction due to other fish, sequela');
+insert into APPOINTMENT values ('77021','63777','S62395A','Follow Up','25-Jan-2022','25-Jan-2022','11','Oth fracture of fourth metacarpal bone, left hand, init');
+insert into APPOINTMENT values ('67440','63323','T2030','Administrative Physicals','26-Jan-2022','26-Jan-2022','19','Burn of third degree of head, face, and neck, unsp site');
+insert into APPOINTMENT values ('19538','60429','S52025A','Follow Up','24-Jan-2022','24-Jan-2022','77','Nondisp fx of olecran pro w/o intartic extn left ulna, init');
+insert into APPOINTMENT values ('41424','44781','R268','Follow Up','28-Jan-2022','28-Jan-2022','18','Other abnormalities of gait and mobility');
+insert into APPOINTMENT values ('25968','64725','S51811','Urgent/New Symptom Visit','26-Jan-2022','26-Jan-2022','5','Laceration without foreign body of right forearm');
